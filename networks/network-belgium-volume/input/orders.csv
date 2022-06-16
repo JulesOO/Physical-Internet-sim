@@ -1,0 +1,11 @@
+source,target,interval
+Antwerpen,Ronse,2
+Brugge,Mons,2
+Brussel,Brugge,2
+Antwerpen,Brussel,2
+Gent,Antwerpen,2
+Gent,Brussel,2
+Brussel,Antwerpen,2
+Mons,Antwerpen,2
+Namur,Gent,2
+Gent,Namur,2

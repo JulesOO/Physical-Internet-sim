@@ -1,0 +1,5 @@
+source,target,weight
+Gent,Antwerpen,0.75
+Gent,Brussel,0.75
+Antwerpen,Hasselt,1.1
+Brussel,Hasselt,1

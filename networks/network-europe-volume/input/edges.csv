@@ -1,0 +1,16 @@
+source,target,weight
+Paris,Lyon,5
+Paris,Brussels,4
+Brussels,Rotterdam,2
+Rotterdam,Hamburg,5
+Hamburg,Berlin,3
+Berlin,Rotterdam,7
+Brussels,Berlin,8
+Berlin,Prague,4
+Prague,Vienna,4
+Vienna,Milan,9
+Lyon,Milan,5
+Milan,Munich,6
+Munich,Vienna,5
+Munich,Prague,4
+Paris,Munich,9

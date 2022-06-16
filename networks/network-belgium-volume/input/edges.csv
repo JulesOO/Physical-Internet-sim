@@ -1,0 +1,11 @@
+source,target,weight
+Brugge,Gent,0.75
+Gent,Antwerpen,0.75
+Gent,Kortrijk,0.5
+Kortrijk,Ronse,0.5
+Antwerpen,Brussel,0.75
+Gent,Brussel,0.75
+Brussel,Charleroi,1
+Mons,Charleroi,0.5
+Charleroi,Namur,0.5
+Ronse,Mons,0.75
